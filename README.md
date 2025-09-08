@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/developer.gif">
 
-- 🔭 I’m currently working on [chat engine](https://github.com/akshaykaran/Codeial)
+- 🔭 I’m currently working on NetflixGPT
 
-- 🌱 I’m currently learning **JavaScript, ExpressJs, PassportJS**
+- 🌱 I’m currently learning **JavaScript, ExpressJs, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://akshay-vinayak-website.netlify.app/](https://akshay-vinayak-website.netlify.app/)
 
